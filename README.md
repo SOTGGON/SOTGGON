@@ -1,4 +1,5 @@
-### Hi there 👋
+## Hallå där 👋
+Jag heter Xiehui, just nu studera jag Webbutveckling vid Mittuniversitetet. 
 
 <!--
 **SOTGGON/SOTGGON** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
